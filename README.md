@@ -11,8 +11,8 @@ A random Java program from my computer science textbook that I modified and tran
 5) Right-click to start by selecting `void ColorScribbleAuto()`.
 
 ## ডেমো ব্যবহার
-১) ব্লুজে প্রোগ্রামটি খুলুন।
-২) কম্পাইল করতে ডান ক্লিক করুন।
-৩) নতুন DrawDemo() অবজেক্ট তৈরি করুন।
-৪) উদাহরণের নাম যেকোনো কিছু হতে পারে।
-৫) `void ColorScribbleAuto()` নির্বাচন করে শুরু করতে ডান-ক্লিক করুন।
+- ১) ব্লুজে প্রোগ্রামটি খুলুন।
+- ২) কম্পাইল করতে ডান ক্লিক করুন।
+- ৩) নতুন DrawDemo() অবজেক্ট তৈরি করুন।
+- ৪) উদাহরণের নাম যেকোনো কিছু হতে পারে।
+- ৫) `void ColorScribbleAuto()` নির্বাচন করে শুরু করতে ডান-ক্লিক করুন।
